@@ -8,18 +8,18 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=zanninx&theme=one_dark_pro&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zanninx&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-##
-![](https://github-profile-trophy.vercel.app/?username=zanninx&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4)
-
-###
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+##
+![](https://github-profile-trophy.vercel.app/?username=zanninx&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4)
+
+###
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zanninx&icon=2&color=4)](https://visitcount.itsvg.in)
